@@ -1,0 +1,907 @@
+h4{
+    position: absolute;
+width: 185px;
+height: 36px;
+left: 242px;
+top: 128px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}
+
+h5 {
+    position: absolute;
+width: 178px;
+height: 36px;
+left: 921px;
+top: 128px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}
+
+h6{
+    position: absolute;
+width: 209px;
+height: 36px;
+left: 2122px;
+top: 110px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+}
+
+.mobile{
+    position: absolute;
+width: 360px;
+height: 932px;
+left: 154px;
+top: 222px;
+
+background: #171111;
+}
+
+.spotifyimage1{
+position:absolute;
+left:169px;
+right:2854px;
+top:239px;
+bottom:1493px;
+background:url(spotify.png);
+}
+.vector{
+    position: absolute;
+left: 474.16px;
+right:2633.16px;
+top: 249.97px;
+bottom: 1504.03px;
+
+border: 1.5px solid #FFFFFF;
+}
+.music{
+    position:absolute;
+left:160px;
+top: 287px;
+overflow:hidden;
+background: url(music.png);
+}
+.music img{
+    margin:0px -2px 0px -52px;
+}
+.rectangle{
+    position: absolute;
+left: 205px;
+top: 666px;
+background: #26D769;
+border-radius: 40px;
+}
+.signup1{
+    position: absolute;
+width: 57.95px;
+height: 14.69px;
+left: 304.96px;
+top: 680.69px;
+
+
+border-radius:0px;
+}
+.spotifyimage2{
+    position:absolute;
+    left: 172px;
+top: 816px;
+}
+.rectangle1{
+    position:absolute;
+    width:360px;
+    height:354px;
+    left: 154px;
+    top: 800px;
+    background:#000000;
+}
+.one{
+    position: absolute;
+width: 82px;
+height: 18px;
+left: 186px;
+top: 874px;
+
+font-family:'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.05em;
+
+color: #ACACAC;
+
+
+}
+.two{
+    position: absolute;
+    width: 38px;
+    height: 15px;
+    left: 189px;
+    top: 912px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+    
+}
+.three{
+    position: absolute;
+    width: 38px;
+    height: 15px;
+    left: 189px;
+    top: 937px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+}
+.four{
+    white-space:nowrap;
+    position: absolute;
+    width: 38px;
+    height: 15px;
+    left:189px;
+    top: 962px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+}
+.five{
+    white-space:nowrap;
+    position: absolute;
+    width: 114px;
+    height: 18px;
+    left:186px;
+    top: 1017px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.05em;
+    
+    color: #ACACAC;
+    
+    
+}
+.six{
+    position: absolute;
+    width: 38px;
+    height: 15px;
+    left:190px;
+    top: 1055px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+}
+.seven{
+    white-space:nowrap;
+    position: absolute;
+    width: 38px;
+    height: 15px;
+    left: 190px;
+    top: 1080px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+}
+.eight{
+    white-space:nowrap;
+    position: absolute;
+    width: 38px;
+    height: 15px;
+    left: 191px;
+    top:1105px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+}
+.tablet{
+    position: absolute;
+width: 755px;
+height: 1397px;
+left: 633px;
+top: 222px;
+
+background: #171111;
+}
+.spotifyimage3{
+    position:absolute;
+    left:668px;
+    top:251px;
+}
+.vector1{
+    position: absolute;
+left: 1311.59px;
+top: 273.28px;
+}
+.music1{
+    position:absolute;
+   left: 645px;
+   top: 329px;
+   overflow:hidden;
+background: url(music.png);
+}
+.signup{
+    position: absolute;
+width: 368px;
+height: 366px;
+left: 827px;
+top: 864px;
+
+background: #FFFFFF;
+border-radius: 3px;
+}
+.name{
+    position: absolute;
+width: 138px;
+height: 12px;
+left: 863.22px;
+top: 885px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #000000;
+}
+.box1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 294px;
+height: 30px;
+left: 860px;
+top: 910px;
+
+border: 1px solid #ACACAC;
+border-radius: 7px;
+}
+.profilename{
+    white-space:nowrap;
+    position: absolute;
+left: 873px;
+top: 910px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 11px;
+
+
+letter-spacing: 0.05em;
+
+color: #737272;
+}
+.email{
+    position: absolute;
+width: 78px;
+height: 12px;
+left: 863.22px;
+top: 952px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.05em;
+color: #000000;
+
+}
+.box2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 294px;
+height: 30px;
+left: 860px;
+top: 978px;
+
+border: 1px solid #ACACAC;
+border-radius: 7px;
+}
+.emailadd{
+    position: absolute;
+width: 109px;
+height: 11px;
+left:873px;
+top: 978px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 11px;
+letter-spacing: 0.05em;
+color: #737272;
+}
+.password{
+    position: absolute;
+width: 92px;
+height: 12px;
+left:863.22px;
+top: 1011px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.05em;
+color: #000000;
+}
+.box3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 294px;
+height: 30px;
+left:860px;
+top: 1035px;
+
+border: 1px solid #ACACAC;
+border-radius: 7px;
+}
+.password1{
+    position: absolute;
+width: 82px;
+height: 11px;
+left:873px;
+top: 1037px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 11px;
+letter-spacing: 0.05em;
+color: #737272;
+}
+.terms
+{
+    position: absolute;
+width: 268.73px;
+height: 43.43px;
+left:873px;
+top: 1072px;
+
+background: url(Screenshot 2022-07-01 at 12.47.png);
+border-radius: 0px;
+}
+.login{
+    position: absolute;
+width: 105.03px;
+height: 12.77px;
+left: 954px;
+top: 1190px;
+
+background: url(Screenshot 2022-07-01 at 1.04.png);
+border-radius: 0px;
+}
+.rectangle2{
+    position: absolute;
+left: 633px;
+top: 1319px;
+
+background: #000000;
+}
+.spotifyimage4{
+    position: absolute;
+left:668px;
+top: 1353px;
+}
+.one1{
+    position: absolute;
+width: 110px;
+height: 24px;
+left:940px;
+top: 1371px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.05em;
+color: #ACACAC;
+}
+.two2{
+    position: absolute;
+width: 57px;
+height: 22px;
+left: 940px;
+top: 1439px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+}
+.three3{
+    position: absolute;
+width: 45px;
+height: 22px;
+left:940px;
+top: 1476px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+}
+.four4{
+    white-space:nowrap;
+    position: absolute;
+width: 145px;
+height: 22px;
+left: 940px;
+top: 1509px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+}
+.five5{
+    white-space:nowrap;
+    position: absolute;
+width: 152px;
+height: 24px;
+left: 1154px;
+top: 1371px;
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.05em;
+color: #ACACAC;
+}
+.six6{
+    position: absolute;
+width: 76px;
+height: 22px;
+left: 1153px;
+top: 1439px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+}
+.seven7{
+    position: absolute;
+width: 106px;
+height: 22px;
+left: 1153px;
+top: 1476px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+}
+.eight8{
+    position: absolute;
+width: 155px;
+height: 22px;
+left: 1154px;
+top: 1513px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+}
+.signin{
+    position: absolute;
+left:878px;
+top: 1129px;
+background: #26D769;
+border-radius: 40px;
+}
+.sign{
+    position: absolute;
+width: 57.95px;
+height: 14.69px;
+left: 977.96px;
+top: 1143.69px;
+border-radius: 0px;
+}
+.laptop{
+    position: absolute; 
+    left: 1507px;
+    top: 222px;
+    background: #171111;
+}
+.lapspotify{
+    position: absolute;
+width: 1440px;
+height: 109px;
+left: 1507px;
+top: 222px;
+
+background: url(Screenshot 2022-07-01 at 12.27.png);
+}
+.music2{
+    position: absolute;
+left: 1507px;
+top: 499px;
+
+}
+.rectangle3{
+    position: absolute;
+    left: 2289px;
+top: 499px;
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+.name1{
+    position: absolute;
+width: 194px;
+height: 17px;
+left: 2339px;
+top: 546px;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.05em;
+color: #000000;
+}
+.box5{
+    box-sizing: border-box;
+position: absolute;
+left: 2335px;
+top: 580px;
+border-radius: 7px;
+}
+.profilename1{
+    position: absolute;
+width: 128px;
+height: 14px;
+left:2352px;
+top: 588px;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 0.05em;
+color: #737272;
+
+}
+.email1{
+    position: absolute;
+width: 107px;
+height: 17px;
+left:2339px;
+top: 640px;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.05em;
+color: #000000;
+}
+.box6{
+    box-sizing: border-box;
+position: absolute;
+width: 405px;
+height: 70px;
+left:2335px;
+top: 675px;
+border: 1px solid #ACACAC;
+border-radius: 7px;
+}
+.emailadd1{
+    position: absolute;
+width: 158px;
+height: 12px;
+left:2352px;
+top:682px;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 0.05em;
+color: #737272;
+}
+.password2{
+    position: absolute;
+width: 129px;
+height: 17px;
+left:2339px;
+top:734px;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.05em;
+color: #000000;
+}
+.box7{
+    box-sizing: border-box;
+position: absolute;
+width: 405px;
+height: 52px;
+left:2335px;
+top:770px;
+border: 1px solid #ACACAC;
+border-radius: 7px;
+}
+.password3{
+    position: absolute;
+width: 118px;
+height: 14px;
+left:2352px;
+top:776px;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 0.05em;
+color: #737272;
+}
+.terms1{
+    position: absolute;
+width:400px;
+height:100px;
+left:2400px;
+top: 840px;
+}
+.rectangle5{
+    position: absolute;
+width: 355px;
+height: 69px;
+left:2363px;
+top: 916px;
+background: #26D769;
+border-radius: 40px;
+}
+.signup2{
+    position: absolute;
+width: 80px;
+height: 23px;
+left: 2501px;
+top: 939px;
+}
+.login1{
+    position: absolute;
+width:200px;
+height: 30px;
+left: 2485px;
+top: 1021px;
+
+}
+.rectangle6{
+    position: absolute;
+    width: 1440px;
+height: 300px;
+    left: 1507px;
+top: 1158px;
+background: #000000;
+}
+.spotify5{
+    position: absolute;
+width: 223px;
+height: 79px;
+left:1624px;
+top: 1202px;
+}
+.one11{
+    position: absolute;
+width: 148px;
+height: 33px;
+left: 2118px;
+top: 1225px;
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 27px;
+line-height: 33px;
+letter-spacing: 0.05em;
+color: #ACACAC;
+}
+.two22{
+    position: absolute;
+    width: 79px;
+    height: 30px;
+    left:2118px;
+    top: 1301px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    }
+.three33{
+    position: absolute;
+width: 63px;
+height: 30px;
+left:2115px;
+top: 1361px;
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+}
+.four44{
+    white-space:nowrap;
+    position: absolute;
+    width: 202px;
+    height: 30px;
+    left:2118px;
+    top: 1420px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    }
+    .five55{
+        white-space:nowrap;
+        position: absolute;
+width: 205px;
+height: 33px;
+left: 2537px;
+top: 1225px;
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 27px;
+line-height: 33px;
+letter-spacing: 0.05em;
+color: #ACACAC;
+}
+.six66{
+    position: absolute;
+width: 106px;
+height: 30px;
+left: 2537px;
+top: 1301px;
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+}
+.seven77{
+    position: absolute;
+width: 147px;
+height: 30px;
+left: 2537px;
+top: 1361px;
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.05em;
+color: #FFFFFF;
+}
+.eight88{
+    position: absolute;
+width: 215px;
+height: 30px;
+left:2537px;
+top: 1420px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
